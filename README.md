@@ -12,3 +12,7 @@ Workflow experiment 2.
 ## Pairing note
 
 Written together with Claude Code.
+
+## Day 2 note
+
+Second-day workflow experiment.
